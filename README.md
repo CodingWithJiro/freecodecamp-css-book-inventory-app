@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f9ea0e57-1b40-4f23-a0d5-86c5eea65d97/deploy-status)](https://book-inventory-app-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-book-inventory-app&left_text=repo%20views)
 
 ## ℹ️ A Simple Landing Page for a Book Inventory App
 
