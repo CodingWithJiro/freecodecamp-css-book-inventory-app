@@ -31,7 +31,7 @@ It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](ht
 
 This project demonstrates how to present data clearly in a tabular format using semantic HTML elements and creative CSS design. Each row of the table represents a book, including its title, author, category, status, and a visual rating bubble using gradients.
 
-The table is color-coded by reading status — _Read_, _In Progress_, and _To Read_ — to enhance readability which also features accessibility.
+The table is color-coded by reading status (_Read_, _In Progress_, and _To Read_) to enhance readability which also features accessibility.
 
 ---
 
