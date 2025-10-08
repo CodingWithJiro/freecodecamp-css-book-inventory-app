@@ -1,4 +1,4 @@
-# 💻 Book Inventory App
+# Book Inventory App
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,17 +17,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-book-inventory-app&left_text=repo%20views)
 
-## ℹ️ A Simple Landing Page for a Book Inventory App
+## A Simple Landing Page for a Book Inventory App
 
 ![Screenshot of the project](./screenshot.png)
 
 This responsive project displays a book inventory in a clean table layout using only HTML and CSS.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project demonstrates how to present data clearly in a tabular format using semantic HTML elements and creative CSS design. Each row of the table represents a book, including its title, author, category, status, and a visual rating bubble using gradients.
 
@@ -35,7 +35,7 @@ The table is color-coded by reading status (_Read_, _In Progress_, and _To Read_
 
 ---
 
-## ✨ Features
+## Features
 
 - Table-based book inventory layout
 - Row backgrounds color-coded by reading status
@@ -44,7 +44,7 @@ The table is color-coded by reading status (_Read_, _In Progress_, and _To Read_
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Structuring and styling HTML tables
 - Using CSS gradients for visual indicators
@@ -54,7 +54,7 @@ The table is color-coded by reading status (_Read_, _In Progress_, and _To Read_
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -64,23 +64,23 @@ The table is color-coded by reading status (_Read_, _In Progress_, and _To Read_
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://book-inventory-app-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://book-inventory-app-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd<sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd<sup>** month of learning _frontend web development_.
